@@ -20,6 +20,7 @@ https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-v
 https://ai.meta.com/sam2/
 
 ### 🖼 Output
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/970ca8f4-2cb4-4a2d-8f8f-5ce75ce8a9b9">
 
 ### 🏢 Sponsor
 https://runpod.io
