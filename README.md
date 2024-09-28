@@ -9,10 +9,12 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/evf-sam2-jupyter/blob/main/evf_sam2_jupyter.ipynb) | evf_sam2_jupyter
 
 ### 🧬 Code
+https://github.com/hustvl/EVF-SAM <br />
 https://github.com/facebookresearch/segment-anything-2 <br />
 
 ### 📄 Paper
-https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos
+https://arxiv.org/abs/2406.20076 <br />
+https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos <br />
 
 ### 🌐 Page
 https://ai.meta.com/sam2/
